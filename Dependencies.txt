@@ -1,0 +1,16 @@
+Dependencies
+External Tools and Gems:
+•	dd (Command-line tool for low-level copying)
+		Install: sudo apt-get install dd
+•	xxd (Command-line tool for creating hex dumps)
+		Install: sudo apt-get install xxd
+•	GTK3 (Ruby gem for creating graphical user interfaces)
+		Install: sudo gem install gtk3
+•	shellwords (Ruby gem for handling shell command arguments)
+		Install: sudo gem install shellwords
+•	GTK3 Themes (GTK3 engine themes)
+		Install: sudo apt-get install gtk3-engines-*
+•	GDK-Pixbuf (Development library for image loading)
+		Install: sudo apt-get install libgdk-pixbuf2.0-dev
+•	gdk_pixbuf2 (Ruby gem for image manipulation)
+		Install: sudo gem install gdk_pixbuf2
